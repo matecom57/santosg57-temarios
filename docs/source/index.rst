@@ -18,8 +18,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
-   Data_Manipulation_with_R_Spector
    curso_r
+   curso_python
 
