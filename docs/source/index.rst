@@ -21,4 +21,5 @@ Contents
    usage
    api
    Data_Manipulation_with_R_Spector
+   curso_r
 
