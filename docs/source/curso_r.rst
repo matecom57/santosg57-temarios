@@ -12,22 +12,17 @@ Objetivos generales:
 Temario
 -------
 
-* 1. Introducción.
+* **1. Introducción.**
 
 * 1.1 ¿Por qué R?
-
 * 1.2 Instalación de R, RStudio
-
 * 1.3 Paquetes y Ayuda. (El Ambiente de Programación)
 
-* 2. Sistemas de numeración y sus operaciones.
+* **2. Sistemas de numeración y sus operaciones.**
 
 * 2.1 Números Naturales, Enteros, Racionales, Reales y Complejos
-
 * 2.2 Operadores Aritméticos, Lógicos y de Comparación.
-
 * 2.3 Constantes, Infinito, Variables.
-
 * 2.4 Tipos de Datos en R.
 
 * 3. Datos Estructurados en R.
