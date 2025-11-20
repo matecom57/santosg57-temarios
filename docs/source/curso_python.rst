@@ -2,6 +2,7 @@ curso: Introducción al Lenguaje de Programación “PYTHON”
 ========================================================
 
 Duración: 24 hrs.
+Información: santosg572@gmail.com
 
 **Objetivos generales:**
 
