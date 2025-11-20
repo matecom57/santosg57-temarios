@@ -12,120 +12,87 @@ Duración: 24 hrs.
 Temario
 _______
 
-Introducción
+* **1. Introducción**
 
-1.1 Qué es “Python”.
+* 1.1 Qué es “Python”.
+* 1.2 Sistemas de Numeración. Operadores aritméticos y lógicos
+* 1.3 Instalación y Ambiente de Programación con: Bash, IPython, Spyder
 
-1.2 Sistemas de Numeración. Operadores aritméticos y lógicos
+* **2. Python como Calculadora.**
 
-1.3 Instalación y Ambiente de Programación con: Bash, IPython, Spyder
+* 2.1 Tipos de números en Python
+* 2.2 Operadores Aritméticos,
+* 2.3 Operadores Lógicos
+* 2.4 Operadores de Comparación.
 
-Python como Calculadora.
+* **3. Conceptos básicos de Programación Orientada a Objetos.**
 
-2.1 Tipos de números en Python
+* 3.1 Clases, objetos, métodos y funciones
+* 3.2 Clases de números
+* 3.3 Clase String
 
-2.2 Operadores Aritméticos,
+* **4. Datos Estructurados**
 
-2.3 Operadores Lógicos
+* 4.1 Clase tupla
+* 4.2 Clase lista
+* 4.3 Clase diccionario
 
-2.4 Operadores de Comparación.
+* **5. Script’s y Funciones**
 
-Conceptos básicos de Programación Orientada a Objetos.
+* 5.1 Qué es un algoritmo
+* 5.2 Qué es un Script
+* 5.3 Funciones de usuario
 
-3.1 Clases, objetos, métodos y funciones
+* **6. Estructuras de Control**
 
-3.2 Clases de números
+* 6.1 If
+* 6.2 While
+* 6.3 For
 
-3.3 Clase String
+* **7. Módulos**
 
-Datos Estructurados
+* 7.1 math
+* 7.2 random
+* 7.3 turtle
+* 7.4 numpy
+* 7.5 matplotlib
 
-4.1 Clase tupla
+* **8. Graficación. Datos discretos y continuos**
 
-4.2 Clase lista
+* 8.1 Gráficas de dispersión
+* 8.2 Gráficas de barras
+* 8.3 Gráficas boxplot
 
-4.3 Clase diccionario
+* **9. Interfaces de usuario con Tkinter**
 
-Script’s y Funciones
+* 9.1 Botón
+* 9.2 Texto
+* 9.3 Listas
 
-5.1 Qué es un algoritmo
+* **10. Entrada Y Salida.**
 
-5.2 Qué es un Script
+* **11. Métodos Numéricos**
 
-5.3 Funciones de usuario
+* 11.1 Cálculo Diferencial e Integral
+* 11.2 Solución de ecuaciones diferenciales ordinarias
 
-Estructuras de Control
+* **12. Análisis de datos Srting’s (cadenas de caracteres)**
 
-6.1 If
+* 12.1 Buscar patrones
+* 12.2 Creación de paginas HTML
 
-6.2 While
+* **13. Aplicaciones**
 
-6.3 For
-
-Módulos
-
-7.1 math
-
-7.2 random
-
-7.3 turtle
-
-7.4 numpy
-
-7.5 matplotlib
-
-Graficación. Datos discretos y continuos
-
-8.1 Gráficas de dispersión
-
-8.2 Gráficas de barras
-
-8.3 Gráficas boxplot
-
-Interfaces de usuario con Tkinter
-
-9.1 Botón
-
-9.2 Texto
-
-9.3 Listas
-
-Entrada Y Salida.
-
-Métodos Numéricos
-
-11.1 Cálculo Diferencial e Integral
-
-11.2 Solución de ecuaciones diferenciales ordinarias
-
-Análisis de datos Srting’s
-
-12.1 Buscar patrones
-
-12.2 Creación de paginas HTML
-
-Aplicaciones
-
-13.1 Diferenciación, Integración e Interpolación.
-
-13.2 Solución de ecuaciones y sistemas de ecuaciones lineales.
-
-13.3 Solución de Sistemas de Ecuaciones Diferenciales de 1er orden acopladas.
-
-13.4 Algebra Lineal Basica. Operaciones Aritméticas. Valores Propios, Vectores Propios y Determinantes.
-
-13.5 Distribuciones de Probabilidad. Discretas y Continuas
-
-13.6 Estadística Descriptiva
-
-13.7 Regresión Lineal y Correlación.
-
-13.8 Análisis de Componentes Principales
-
-13.9 Análisis de Agrupamiento (“Clustering”)
-
-13.10 Regresion Lineal Multiple. Correlación Canónica.
-
-13.11 Análisis de Imágenes
+* 13.1 Diferenciación, Integración e Interpolación.
+* 13.2 Solución de ecuaciones y sistemas de ecuaciones lineales.
+* 13.3 Solución de Sistemas de Ecuaciones Diferenciales de 1er orden acopladas.
+* 13.4 Algebra Lineal Basica. Operaciones Aritméticas. Valores Propios, Vectores Propios y Determinantes.
+* 13.5 Distribuciones de Probabilidad. Discretas y Continuas
+* 13.6 Estadística Descriptiva
+* 13.7 Regresión Lineal y Correlación.
+* 13.8 Análisis de Componentes Principales
+* 13.9 Análisis de Agrupamiento (“Clustering”)
+* 13.10 Regresion Lineal Multiple. Correlación Canónica.
+* 13.11 Análisis de Imágenes
 
 
