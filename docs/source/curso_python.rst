@@ -1,4 +1,4 @@
-curso: Introducción al Lenguaje de Programación “PYTHON”
+Introducción al Lenguaje de Programación “PYTHON”
 ========================================================
 
 Duración: 24 hrs.

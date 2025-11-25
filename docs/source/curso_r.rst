@@ -1,4 +1,4 @@
-Curso: Introducción al Lenguaje de Programación "R"
+Introducción al Lenguaje de Programación "R"
 ===================================================
 
 Duración: 24 hrs
