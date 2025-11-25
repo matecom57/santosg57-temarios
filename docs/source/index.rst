@@ -1,19 +1,18 @@
-Welcome to Lumache's documentation!
+¡Bienvenido a los CURSOS que se ofrecen!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+En esta página encontrará cursos que se ofrecen para gente que no tiene que estar inscrito en una escuela y estar asistiendo al aula de 
+clase, es otra opción para aprender computación de alto nivel y ser eficiente en sus trabajos cotidianos.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Iniciamos con un curso para todo público en general desde 10 a 100 años de edad,  y se puede aplicar para resolver cualquier problema 
+computable.
+
 
 .. note::
 
-   This project is under active development.
+   Este proyecto está en desarrollo activo.
 
-Contents
+Cursos
 --------
 
 .. toctree::
