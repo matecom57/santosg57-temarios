@@ -1,7 +1,8 @@
 Introducción al Lenguaje de Programación "R"
 ===================================================
 
-Duración: 24 hrs
+Duración: 24 hrs.
+
 Información: santosg572@gmail.com
 
 Objetivos generales:
