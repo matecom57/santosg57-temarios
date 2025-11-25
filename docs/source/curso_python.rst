@@ -2,13 +2,14 @@ Introducción al Lenguaje de Programación “PYTHON”
 ========================================================
 
 Duración: 24 hrs.
+
 Información: santosg572@gmail.com
 
 **Objetivos generales:**
 
 * Introducir al alumno en aprender un lenguaje de programación para el análisis estadístico de datos.
 * Aprender un lenguaje de programación, fácil de aprender y útil para el análisis de datos.
-*  Aprender herramientas que proporciona Python para hacer Cálculo Científico
+* Aprender herramientas que proporciona Python para hacer Cálculo Científico
 
 Temario
 _______
