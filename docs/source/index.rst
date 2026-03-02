@@ -19,4 +19,5 @@ Cursos
 
    curso_r
    curso_python
+   curso_linux
 
