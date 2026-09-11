@@ -157,93 +157,63 @@ Agradecimientos en artículos internacionales
 
 78. Arroyo-Helguera, O., Mejia-Viggiano, C., Varela-Echavarria, A., Cajero-Juárez, M., Aceves, C., “Regulatory role of the 3I untranslated region (3’UTR) of rat 5I deiodinase (D1). Effects on Messenger RNA translation and stability”, Endocrine, 27:219-227, mayo de 2005.
 
-79. Granados-Rojas, L., Aguilar, A., Díaz-Cintra, S., “The mossy fiber system of the hippocampal formation is decreased by chronic and postnatal 
-but not by prenatal protein malnutrition in rats”, Nutr. Neurosci., 7:301-8, Créditos en: Artículo internacional, mayo de 2004.
+79. Granados-Rojas, L., Aguilar, A., Díaz-Cintra, S., “The mossy fiber system of the hippocampal formation is decreased by chronic and postnatal but not by prenatal protein malnutrition in rats”, Nutr. Neurosci., 7:301-8, Créditos en: Artículo internacional, mayo de 2004.
 
-80. Peréz-León, J.A., Sarabia, G., Miledi, R, Garcia-Alcocer, G., “Distribution of 5hydroxytriptamine2C receptor RNA in rat retina”, Brain Res 
-Mol Brain Res. 125:140-2, mayo de 2004.
+80. Peréz-León, J.A., Sarabia, G., Miledi, R, Garcia-Alcocer, G., “Distribution of 5hydroxytriptamine2C receptor RNA in rat retina”, Brain Res Mol Brain Res. 125:140-2, mayo de 2004.
 
-81. Anguiano, B., Rojas-Huidobro, R., Delgado, G., Aceves, C., “Has the mammary gland a protective mechanism against overexposure to 
-triiodothyronine during the peripartum period? The prolactin pulse down-regulates mammary type I deiodinase responsiveness to norepinephrine”, J. Endocrinol., 183:267-77, mayo de 2004.
+81. Anguiano, B., Rojas-Huidobro, R., Delgado, G., Aceves, C., “Has the mammary gland a protective mechanism against overexposure to triiodothyronine during the peripartum period? The prolactin pulse down-regulates mammary type I deiodinase responsiveness to norepinephrine”, J. Endocrinol., 183:267-77, mayo de 2004.
 
-82. Díaz del Guante, M.A., Rivas, M., Prado-Alcalá, R. A., Quirarte, G. L., Amnesia produced by pretraining infusion of serotonin into the 
-substantia nigra, SYNAPTIC TRANSMISSION NEUROREPORT, Vol. 15, No. 15, 2527-2529, Créditos en: Artículo internacional, 2004.
+82. Díaz del Guante, M.A., Rivas, M., Prado-Alcalá, R. A., Quirarte, G. L., Amnesia produced by pretraining infusion of serotonin into the substantia nigra, SYNAPTIC TRANSMISSION NEUROREPORT, Vol. 15, No. 15, 2527-2529, Créditos en: Artículo internacional, 2004.
 
-83. Luna, M., Huerta, L, Berumen, L, Martínez-Coria, H., Harvey, S., Arámburo, C., “Growth hormone in the male reproductive tract of the chicken: 
-heterogeneity and changes during ontogeny and maturation”, Gen. Comp. Endocrinol. 137:37-49, Créditos en: Artículo internacional, mayo de 2004.
+83. Luna, M., Huerta, L, Berumen, L, Martínez-Coria, H., Harvey, S., Arámburo, C., “Growth hormone in the male reproductive tract of the chicken: heterogeneity and changes during ontogeny and maturation”, Gen. Comp. Endocrinol. 137:37-49, Créditos en: Artículo internacional, mayo de 2004.
 
-84. Díaz-Cintra, S, Yong A, Aguilar A, Bi, X., Lynch, G., Ribak, C.E., “Ultrastructural analysis of hippocampal piramidal neurons from 
-apolipoprotein E-deficient mice treated with a cathepsin inhibitor”, J. Neurocytol. 33:37-48, Créditos en: Artículo internacional, mayo de 2004.
+84. Díaz-Cintra, S, Yong A, Aguilar A, Bi, X., Lynch, G., Ribak, C.E., “Ultrastructural analysis of hippocampal piramidal neurons from apolipoprotein E-deficient mice treated with a cathepsin inhibitor”, J. Neurocytol. 33:37-48, Créditos en: Artículo internacional, mayo de 2004.
 
-85. Mena-Segovia, J., Favila, R., Giordano, M., “Long-term effects of striatal lesions on c-Fos immunoreactivity in the pedunculopontine 
-nucleus”, Eur. J. Neurosci., 20:2367-76, mayo de 2004.
+85. Mena-Segovia, J., Favila, R., Giordano, M., “Long-term effects of striatal lesions on c-Fos immunoreactivity in the pedunculopontine nucleus”, Eur. J. Neurosci., 20:2367-76, mayo de 2004.
 
-86. López-Vera, E., de la Cotera, E. P., Maillo, M., Riesgo-Escovar, J., Olivera, B. M., Aguilar, M. B., “A novel structural class of toxins: the 
-methionine-rich peptides from the venoms of turrid marine snails (Mollusca, Conoidea)”, Toxicon., 43:365-74, mayo de 2004.
+86. López-Vera, E., de la Cotera, E. P., Maillo, M., Riesgo-Escovar, J., Olivera, B. M., Aguilar, M. B., “A novel structural class of toxins: the methionine-rich peptides from the venoms of turrid marine snails (Mollusca, Conoidea)”, Toxicon., 43:365-74, mayo de 2004.
 
-87. Berumen, L. C., Luna, M., Carranza, M., Martinez-Coria, H., Reyes, M., Carabez, A., Arámburo, C., “Chicken growth hormone: further 
-characterization and ontogenic changes of an N-glycosylated isoform in the anterior pituitary gland”, Gen. Comp. Endocrinol., 139:113-23, mayo de 2004.
+87. Berumen, L. C., Luna, M., Carranza, M., Martinez-Coria, H., Reyes, M., Carabez, A., Arámburo, C., “Chicken growth hormone: further characterization and ontogenic changes of an N-glycosylated isoform in the anterior pituitary gland”, Gen. Comp. Endocrinol., 139:113-23, mayo de 2004.
 
-88. Mena-Segovia, J., Giordano, M., “Striatal dopaminergic stimulation produces c-Fos expression in the PPT and an increase in wakefulness”, 
-Brain Res., 986:30-8, mayo de 2003.
+88. Mena-Segovia, J., Giordano, M., “Striatal dopaminergic stimulation produces c-Fos expression in the PPT and an increase in wakefulness”, Brain Res., 986:30-8, mayo de 2003.
 
-89. Prado-Alcalá, R. A., Solana-Figueroa, R., Galindo, L. E., Medina, AC, Quitarte, G. L., “Blockade of striatal 5-HT2 receptors produces 
-retrograde amnesia in rats”, Life Sci., 74:481-8, mayo de 2003.
+89. Prado-Alcalá, R. A., Solana-Figueroa, R., Galindo, L. E., Medina, AC, Quitarte, G. L., “Blockade of striatal 5-HT2 receptors produces retrograde amnesia in rats”, Life Sci., 74:481-8, mayo de 2003.
 
-90. Vázquez-Martínez, O., Cañedo-Merino, R., Díaz-Muñoz, M., Riesgo-Escovar, “Biochemical characterization, distribution and phylogenetic 
-analysis of Drosophila melanogaster ryanodine and IP3 receptors, and thapsigargin-sensitive Ca2+ ATPase”, J. Cell Sci., 116:2483-94, mayo de 2003.
+90. Vázquez-Martínez, O., Cañedo-Merino, R., Díaz-Muñoz, M., Riesgo-Escovar, “Biochemical characterization, distribution and phylogenetic analysis of Drosophila melanogaster ryanodine and IP3 receptors, and thapsigargin-sensitive Ca2+ ATPase”, J. Cell Sci., 116:2483-94, mayo de 2003.
 
-91. Prado-Alcalá, R. A., Ruiloba, M. I., Rubio, L., Solana-Figueroa, R., Medina, C., Salado-Castillo, R., Quitarte, G. L., “Regional infusions of 
-serotonin into the striatum and memory consolidation”, Synapse, 47:169-75, Créditos en: Artículo internacional, mayo de 2003.
+91. Prado-Alcalá, R. A., Ruiloba, M. I., Rubio, L., Solana-Figueroa, R., Medina, C., Salado-Castillo, R., Quitarte, G. L., “Regional infusions of serotonin into the striatum and memory consolidation”, Synapse, 47:169-75, Créditos en: Artículo internacional, mayo de 2003.
 
-92. Hernádez-Montiel, H. L., Meléndez-Herrera, E., Cepeda-Nieto, A. C., Mejía-Viggiano, C., LarrivaSahd, J., Guthrie, S., Varela-Echavarría, 
-A.”Diffusible signals and fasciculated growth in reticulospinal axon pathfinding in the hindbrain”, Dev. Biol., 255:99-112, mayo de 2003.
+92. Hernádez-Montiel, H. L., Meléndez-Herrera, E., Cepeda-Nieto, A. C., Mejía-Viggiano, C., LarrivaSahd, J., Guthrie, S., Varela-Echavarría, A.”Diffusible signals and fasciculated growth in reticulospinal axon pathfinding in the hindbrain”, Dev. Biol., 255:99-112, mayo de 2003.
 
-93. Mena-Segovia, J., Cintra, L., Prospéro-Garcia, O., Giordano, M. “Changes in sleep-waking cycle after striatal excitotoxic lesions”, Behav. 
-Brain Res., 136:475-81, mayo de 2002.
+93. Mena-Segovia, J., Cintra, L., Prospéro-Garcia, O., Giordano, M. “Changes in sleep-waking cycle after striatal excitotoxic lesions”, Behav. Brain Res., 136:475-81, mayo de 2002.
 
-94. Marina, N., Morales, T., Díaz, N., Mena, F., “Suckling-induced activation of neural c-fos expression at lower thoracic rat spinal cord 
-segments”, Brain Res., 954:100-14, mayo de 2002.
+94. Marina, N., Morales, T., Díaz, N., Mena, F., “Suckling-induced activation of neural c-fos expression at lower thoracic rat spinal cord segments”, Brain Res., 954:100-14, mayo de 2002.
 
-95. Larriva-Sahd, J., Condés Lara, M., Martínez-Cabrera, G., Varela-Echavarría, A., “Histological and ultrastructural characterization of 
-interfascicular neurons in the rat anterior commissure”, Brain Res., 931:81-91, Créditos en: Artículo internacional, mayo de 2002.
+95. Larriva-Sahd, J., Condés Lara, M., Martínez-Cabrera, G., Varela-Echavarría, A., “Histological and ultrastructural characterization of interfascicular neurons in the rat anterior commissure”, Brain Res., 931:81-91, Créditos en: Artículo internacional, mayo de 2002.
 
-96. Martínez-Coria, H., López-Rosales, L. J., Carranza, M., Berumen, L., Luna, M., Arámburo, C., “Differential secretion of chicken growth 
-hormone variants after growth hormone-releasing hormone stimulation in Vitro”, Endocrine, 17:91-102, Créditos en: Artículo internacional, mayo de 2002.
+96. Martínez-Coria, H., López-Rosales, L. J., Carranza, M., Berumen, L., Luna, M., Arámburo, C., “Differential secretion of chicken growth hormone variants after growth hormone-releasing hormone stimulation in Vitro”, Endocrine, 17:91-102, Créditos en: Artículo internacional, mayo de 2002.
 
-97. Solana-Figueroa, R., Salado-Castillo, R., Galindo, L. E., Quitarte, G. L., Prado-Alcalá, R. A., “Effects of pretraining intrastriatal 
-administration of p-chloroamphetamine on inhibitory avoidance”, Neurobiol Learn Mem., 78:178-85, Créditos en: Artículo internacional, mayo de 2002.
+97. Solana-Figueroa, R., Salado-Castillo, R., Galindo, L. E., Quitarte, G. L., Prado-Alcalá, R. A., “Effects of pretraining intrastriatal administration of p-chloroamphetamine on inhibitory avoidance”, Neurobiol Learn Mem., 78:178-85, Créditos en: Artículo internacional, mayo de 2002.
 
-98. Díaz, N., Huerta, I., Marina, N., Navarro, N., Mena, F., “Regional mechanisms within anterior pituitary of lactating rats may regulate 
-prolactin secretion”, Endocrine, 18:41-6, mayo de 2002.
+98. Díaz, N., Huerta, I., Marina, N., Navarro, N., Mena, F., “Regional mechanisms within anterior pituitary of lactating rats may regulate prolactin secretion”, Endocrine, 18:41-6, mayo de 2002.
 
-99. Martinez, I., Quitarte, G. L., Díaz-Cintra, S., Quiroz, C., Prado-Alcala, R. A., “Effects of lesions of hippocampal fields CA1 and CA3 on 
-acquisition of inhibitory avoidance”, Neuropsychobiology, 46:97103, Créditos en: Artículo internacional, mayo de 2002.
+99. Martinez, I., Quitarte, G. L., Díaz-Cintra, S., Quiroz, C., Prado-Alcala, R. A., “Effects of lesions of hippocampal fields CA1 and CA3 on acquisition of inhibitory avoidance”, Neuropsychobiology, 46:97103, Créditos en: Artículo internacional, mayo de 2002.
 
-100. Giordano, M., Mejía-Viggiano, M. C., “Gender differences in spontaneous and MK-801-induced activity alter striatal lesions”, Brain Res. 
-Bull., 56:553-61, mayo de 2001.
+100. Giordano, M., Mejía-Viggiano, M. C., “Gender differences in spontaneous and MK-801-induced activity alter striatal lesions”, Brain Res. Bull., 56:553-61, mayo de 2001.
 
-101. Fernández-Bouzas, A., Harmony, T., Fernández, T., Silva-Pereyra, J., Valdés, P., Bosch, J., Aubert, E., Casian, G., Otero Ojeda, G., 
-Ricardo, J., Hernandez-Ballesteros, A., Santiago, E., “Sources of abnormal EEG activity in brain infarctions”, Clin. Electroencephalogr., 31:165-9, mayo de 2000.
+101. Fernández-Bouzas, A., Harmony, T., Fernández, T., Silva-Pereyra, J., Valdés, P., Bosch, J., Aubert, E., Casian, G., Otero Ojeda, G., Ricardo, J., Hernandez-Ballesteros, A., Santiago, E., “Sources of abnormal EEG activity in brain infarctions”, Clin. Electroencephalogr., 31:165-9, mayo de 2000.
 
-102. Arámburo, C., Luna, M., Carranza, M., Reyes, M., Martínez-Coria, H., Scanes, C. G., “Growth hormone size variants: changes in the pituitary 
-during development of the chicken”, Proc. Soc. Exp. Biol. Med., 223:67-74, Créditos en: Artículo internacional, mayo de 2000.
+102. Arámburo, C., Luna, M., Carranza, M., Reyes, M., Martínez-Coria, H., Scanes, C. G., “Growth hormone size variants: changes in the pituitary during development of the chicken”, Proc. Soc. Exp. Biol. Med., 223:67-74, Créditos en: Artículo internacional, mayo de 2000.
 
-103. Aguilar, M.B., Lezama-Monfil, L., Maillo, M., Pedraza-Lara, H., López-Vera E., Heimer de la Cotera, E.P., "A biologically active hydrophobic 
-T-1-conotoxin from the venom of Conus spurius", Peptides, 27, 500-505, Créditos en: Artículo internacional, 2000.
+103. Aguilar, M.B., Lezama-Monfil, L., Maillo, M., Pedraza-Lara, H., López-Vera E., Heimer de la Cotera, E.P., "A biologically active hydrophobic T-1-conotoxin from the venom of Conus spurius", Peptides, 27, 500-505, Créditos en: Artículo internacional, 2000.
 
-104. García-Colunga, J., Valdiosera, R., García, U., “P-type Ca2+ current in crayfish peptidergic neurones”, J. Exp, Biol., 202:429-440, mayo de 
-1999.
+104. García-Colunga, J., Valdiosera, R., García, U., “P-type Ca2+ current in crayfish peptidergic neurones”, J. Exp, Biol., 202:429-440, mayo de 1999.
 
-105. Dueñas, Z., Torner, L., Corbacho, A. M., Ochoa, A., Gutiérrez-Ospina, G., López-Barrera, F., Barrios, F. A., Berger, P., Martínez de la 
-Escalera, G., Clapp, C., “Inhibition of rat corneal angiogenesis by 16-kDa prolactin and by Endogenous prolactin-like molecules”, Invest. Ophthalmol. Vis. Sci., 40:2498-505, mayo de 1999.
+105. Dueñas, Z., Torner, L., Corbacho, A. M., Ochoa, A., Gutiérrez-Ospina, G., López-Barrera, F., Barrios, F. A., Berger, P., Martínez de la Escalera, G., Clapp, C., “Inhibition of rat corneal angiogenesis by 16-kDa prolactin and by Endogenous prolactin-like molecules”, Invest. Ophthalmol. Vis. Sci., 40:2498-505, mayo de 1999.
 
-106. Gutiérrez-Ospina, G., Jiménez-Trejo, F. J., Favila, R., Moreno-Mendoza, N. A., Granados Rojas, Barrios, F. A., Diaz-Cintra, S., 
-Merchant-Larios, H., “Acetylcholinesterase-positive innervation is present at undifferentiated stages of the sea turtle Lepidochelis olivacea embryo gonads: implications for temperature-dependent sex determination”, J. Comp. Neurol., 410:90-8, mayo de 1999.
+106. Gutiérrez-Ospina, G., Jiménez-Trejo, F. J., Favila, R., Moreno-Mendoza, N. A., Granados Rojas, Barrios, F. A., Diaz-Cintra, S., Merchant-Larios, H., “Acetylcholinesterase-positive innervation is present at undifferentiated stages of the sea turtle Lepidochelis olivacea embryo gonads: implications for temperature-dependent sex determination”, J. Comp. Neurol., 410:90-8, mayo de 1999.
 
-107. Gutiérrez-Ospina, G., Díaz-Cintra, S., Aguirre-Portilla, A., Aguilar-Vázquez, A., López, S. R., Barrios, F.A., “Comparable activity levels 
-in developmentally deprived and non-deprived layer IV cortical columns of the adult rat primary somatosensory cortex”, Neurosci. Lett., 247:5-8, mayo de 1998.
+107. Gutiérrez-Ospina, G., Díaz-Cintra, S., Aguirre-Portilla, A., Aguilar-Vázquez, A., López, S. R., Barrios, F.A., “Comparable activity levels in developmentally deprived and non-deprived layer IV cortical columns of the adult rat primary somatosensory cortex”, Neurosci. Lett., 247:5-8, mayo de 1998.
 
-108. Giordano, M., Salado-Castillo, R., Sánchez-Alvarez, M., Prado-Alcalá, R. A., “Striatal transplants prevent AF64A-induced retention 
-deficits”, Life Sci., 63:1953-61,  mayo de 1998.
+108. Giordano, M., Salado-Castillo, R., Sánchez-Alvarez, M., Prado-Alcalá, R. A., “Striatal transplants prevent AF64A-induced retention deficits”, Life Sci., 63:1953-61,  mayo de 1998.
 
