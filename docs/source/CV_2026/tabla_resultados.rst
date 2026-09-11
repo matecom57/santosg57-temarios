@@ -1,15 +1,15 @@
 Tabla de Resultados
 ===================
 
-.. list-table:: Title of the Table
+.. list-table:: Resultados en estos 30 años
    :header-rows: 1
    :widths: 70 20
 
-   * - Header Col 1
-     - Header Col 2
-   * - Row 1 Col 1
+   * - Rubro
+     - Cantidad
+   * - Asistencia a eventos académicos
      - Row 1 Col 2
-   * - Row 2 Col 1
+   * - Participación institucional
      - Row 2 Col 2
 
 Asistencia a eventos académicos
