@@ -8,47 +8,47 @@ Tabla de Resultados
    * - Rubro
      - Cantidad
    * - Asistencia a eventos académicos
-     - 00
+     - 4
    * - Participación institucional
-     - 00
+     - 4
    * - Agradecimientos en tesis de doctorado
-     - 00
+     - 20
    * - Agradecimientos en tesis de maestría
-     - 00
+     - 42
    * - Agradecimientos en tesis de licenciatura
-     - 00
+     - 7
    * - Agradecimientos en artículos internacionales
-     - 00
+     - 108
    * - Agradecimientos en capítulos en libros
-     - 00
+     - 1
    * - Agradecimientos en congresos nacionales
-     - 00
+     - 10
    * - Agradecimientos en congresos internacionales
-     - 00
+     - 38
    * - Otros agradecimientos
-     - 00
+     - 88
    * - Premios y distinciones
-     - 00
+     - 1
    * - Artículos publicados
-     - 00
+     - 19
    * - Artículos en memorias In Extenso
-     - 00
+     - 7
    * - Congresos Internacionales
-     - 00
+     - 29
    * - Congresos Nacionales
-     - 00
+     - 11
    * - Congresos Locales
-     - 00
+     - 13
    * - Comités de congresos
-     - 00
+     - 1
    * - Cursos regulares
-     - 00
+     - 27
    * - Cursos especiales
-     - 00
+     - 22
    * - Tesis de licenciatura
-     - 00
+     - 4
    * - Productos técnicos
-     - 00
+     - 1
    * - Actividades de difusión y extensión
-     - 00
+     - 11
 
