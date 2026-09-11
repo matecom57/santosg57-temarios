@@ -20,4 +20,5 @@ Cursos
    curso_r
    curso_python
    curso_linux
+   CV_2026/index2
 
