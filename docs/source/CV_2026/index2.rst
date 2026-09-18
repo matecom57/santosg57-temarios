@@ -5,6 +5,7 @@ Curriculum Vitae
    :maxdepth: 2
    :caption: Contents:
 
+   requisitos
    escolaridad
    experiencia_prof
    cursos_reci
