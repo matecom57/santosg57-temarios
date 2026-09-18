@@ -6,6 +6,7 @@ Curriculum Vitae
    :caption: Contents:
 
    requisitos
+   promocion
    escolaridad
    experiencia_prof
    cursos_reci
