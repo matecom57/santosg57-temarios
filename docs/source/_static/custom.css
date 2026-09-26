@@ -1,3 +1,10 @@
 body {
     font-size: 24px;
 }
+
+table.small-table th, 
+table.small-table td {
+    font-size: 85%;
+}
+
+

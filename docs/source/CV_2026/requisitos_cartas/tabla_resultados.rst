@@ -1,6 +1,8 @@
 Tabla de Resultados durante los 30 años 
 =======================================
 
+.. rst-class:: small-table
+
 .. list-table:: Resultados en estos 30 años
    :header-rows: 1
    :widths: 70 20
