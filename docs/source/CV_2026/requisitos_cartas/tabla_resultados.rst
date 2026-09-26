@@ -1,5 +1,5 @@
-Tabla de Resultados
-===================
+Tabla de Resultados durante los 30 años 
+=======================================
 
 .. list-table:: Resultados en estos 30 años
    :header-rows: 1
