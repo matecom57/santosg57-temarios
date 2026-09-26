@@ -5,5 +5,6 @@ Documentos para el tramite de promoción
    :maxdepth: 1
    :caption: Contents:
 
-   CV/index2.rst 
+   CV/index2
+   requisitos_cartas/tabla_resultados
 
