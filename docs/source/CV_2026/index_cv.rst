@@ -1,5 +1,5 @@
-Curriculum Vitae
-===================
+Documentos para el tramite de promoción
+=======================================
 
 .. toctree::
    :maxdepth: 1
