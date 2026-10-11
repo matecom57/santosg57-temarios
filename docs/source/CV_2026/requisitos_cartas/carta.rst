@@ -16,5 +16,5 @@ Tambien he participadp activamente en la difusión de la ciencia, doy asesorarie
 de posgrado, desde mi incoorporacion al Instituto he imapartido cursos de los lenguajes de Programación "R" y "Python". 
 Además he colaborado con algunos Investigadores interno y externos del Instituto.
 
-
+Mi última promoción fue en el año 2006, com "Técnico Académico Titulo B" y desde esta fecha me he dedicado a trabajar 
 
