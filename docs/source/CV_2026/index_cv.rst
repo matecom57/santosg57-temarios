@@ -8,6 +8,6 @@ Documentos para el tramite de promoción
    CV/index2
    requisitos_cartas/tabla_resultados
    requisitos_cartas/tabla_resultados_despues_2006
-   carta.rst
-   requisitos.rst
+   requisitos_cartas/carta.rst
+   requisitos_cartas/requisitos.rst
 
