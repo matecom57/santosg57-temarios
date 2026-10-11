@@ -3,12 +3,8 @@ carta
 
 Santiago de Querétaro, a 11 de septiembre de 2026.
 
-Dra. María Teresa Morales Guzmán
-Directora del
-Instituto de Neurobiología, UNAM
-Campus Juriquilla, Qro.
 
-Estimada Dra.Morales:
+Estimada Dra.:
 
 Me dirijo a usted con el debido respeto y con el entusiasmo de solicitar mi promosión de Técnico Académico Titular "B" a Técnico Académico Titular "C". 
 Durante estos ultimos 30 años he colaborado en el Dr. Barrios en su linea de investigación "Mapeo Funcional Cerebral". Soy Licenciado en Fisica y Matemaícas y
