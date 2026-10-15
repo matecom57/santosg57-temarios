@@ -1,9 +1,5 @@
-body {
-    font-size: 18px;
-}
-
 p {
-    font-size: 16px; /* Ajusta al tamaño que necesites */
+    font-size: 18px; /* Ajusta al tamaño que necesites */
 }
 
 table.small-table th, 
