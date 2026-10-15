@@ -35,5 +35,9 @@ html_css_files = [
     'custom.css',
 ]
 
+html_theme_options = {
+    'display_vcs_links': False,  # Oculta los enlaces a GitHub/Bitbucket/GitLab
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
