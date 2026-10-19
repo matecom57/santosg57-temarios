@@ -35,7 +35,7 @@ Curriculum Vitae
    agrad_cong_inter 
    otros_agrad
    articulos_publicados
-    actividades_difusion_extension
+   actividades_difusion_extension
 
    tabla_resultados
    tabla_resultados_despues_2006
