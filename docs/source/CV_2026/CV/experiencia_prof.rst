@@ -11,4 +11,5 @@ Experiencia Profesional
 
 5. Profesor de Matemáticas en el Depto. Ciencias Basicas, **"UNIVERSIDAD AUTONOMA METROPOLITANA"**, Unidad Azcapotzalco, de 1985 a 1988.
 
+6. Ayudante Investigador, **"CENTRO DE INVESTIGACION Y DE ESTUDIOS AVANZADOS"**, Cinvestav-Zacatenco, México, de 1980 a 1990.
 

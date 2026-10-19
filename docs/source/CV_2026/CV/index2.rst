@@ -11,9 +11,9 @@ Curriculum Vitae
    escolaridad
    experiencia_prof
    cursos_reci
+   asistencia_a_eventos_academicos
    art_public
    art_mem_ext
-   asis_even_acad
    parti_inst
    premios
    congr_inter
