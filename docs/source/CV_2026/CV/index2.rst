@@ -34,6 +34,7 @@ Curriculum Vitae
    agrad_cong_naci  
    agrad_cong_inter 
    otros_agrad
+   articulos_publicados
 
    tabla_resultados
    tabla_resultados_despues_2006
