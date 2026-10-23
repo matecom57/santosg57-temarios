@@ -1,6 +1,38 @@
 Producción-2026
 ===============
 
+**Agradecimientos en Artículos Internacionales**
+
+1. Tabal-Robles, A.R., González-Trujano, M.E., Moreno-Pérez, G.F., Hernandez-Leon, A., Rojas-Lima, S., Martínez-Vargas, S., 
+Luna-Munguía, H., Escamilla-Orozco, R.I., Guzmán-Dávalos, L., Alvarado-Rodríguez, J.G.  and Torres-Valencia, J.M., "Preclinical Anxiolytic- and Antidepressant-like Effects of 
+α,α-Trehalose, a Bioactive Compound Identified in Psilocybe cubensis", Molecules, 31, 3383, 1-27, 2026.
+
+2. Fair, M.J., Cureño, D., De-León-Cuevas, A., Ocampo-Luna, P., Bianciardi, M., García-Gomar, M.G., "Development of interactive MRI-based 
+3D visualization tools for neuroanatomy education in Latin America", American Association for Anatomy, WILEY, 1-15, January, 2026.
+
+3. Ortega-Fimbres, O., Ríos-Carrillo, R., Gaspar-Martínez, E., Ruiz-Acosta, P., Regalado, M., 
+Luna-Munguía, H., Ramírez-Manzanares, A., Concha, L., "Analysis of cortical dysplasias using b-tensor encoding diffusion MRI in an animal 
+model", PLOS One, 1-17, April, 2026.
+
+4. Villaseñor, P.J., Luna_Munguía, H., Ramirez-Manzanares, A., 
+Coronado-Leija, R., and Concha, L., "Multimodal age-dependent diffusion-MRI analysis of the neocortex in a rat model of cortical 
+dysplasia", Scientific Reports, 1-31, April, 2026.
+
+5. Moscovicz, F., Vazquez‑Morales, L., Lazarowski, A., Concha, L., Auzmendi, J., Luna‑Munguia, H., "In Vivo Longitudinal Mapping of Brain 
+Iron Accumulation After Pilocarpine-Induced Status Epilepticus", Molecular Neurobiology, 1-12, July, 2026.
+
+ 
+
+**Agradecimientos en Tesis de Maestría** 
+
+1. Aguilar-González, A.E., "Análisis Longitudinal de los cambios microestructurales de regiones intra- y extra-límbicas tras la modulación del septum medial en un modelo
+de epilepsia farmacorresistente", Maestría en Ciencias (Neurobiología), UNAM, marzo, 2026.
+
+2. Vázquez-Morales, L.J., "Efectos del desarrollo de la diabetes mellitus tipo II en la microestructura cerebral y su impacto en la 
+susceptibilidad a presentar crisis convulsivas de dificil control farmacologico", Maestría en Ciencias (Neurobiología), UNAM, agosto, 
+2026.
+
+
 **Agradecimientos Jornadas Académicas**
 
 1. Castillejos Alfaro, A. M., López Castro, A., Hernández Medina, A. and Garza Villarreal, E. A, "ACTIVACIÓN CEREBRAL DURANTE EL PROCESAMIENTO DE RECOMPENSA COMO MARCADOR TEMPRANO DE 
