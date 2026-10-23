@@ -1,6 +1,12 @@
 Producción-2026
 ===============
 
+**Capítulo de Libro**
+
+1. Martínez-Soto, J., Adityavarman, R., Barrios, F.A., Gonzales-Santos, L., "Biophilic Design from a Psychology 
+and Neuroscience Perspective", Book: The Routledge Handbook of Interior Architecture Research, Pub. Location: London, Edited ByNisha A. 
+Fernando, 1-11, 1st Edition, 2026.
+
 **Agradecimientos en Artículos Internacionales**
 
 1. Tabal-Robles, A.R., González-Trujano, M.E., Moreno-Pérez, G.F., Hernandez-Leon, A., Rojas-Lima, S., Martínez-Vargas, S., 
@@ -20,6 +26,9 @@ dysplasia", Scientific Reports, 1-31, April, 2026.
 
 5. Moscovicz, F., Vazquez‑Morales, L., Lazarowski, A., Concha, L., Auzmendi, J., Luna‑Munguia, H., "In Vivo Longitudinal Mapping of Brain 
 Iron Accumulation After Pilocarpine-Induced Status Epilepticus", Molecular Neurobiology, 1-12, July, 2026.
+
+6. Martínez-Degollado, M., Medina, A.C., Bello-Medina, P.C.,  Prado-Alcalá, R.A., "Membrane-initiated glucocorticoid signaling in the 
+dorsomedial striatum modulates resistance to extinction", Brain Research, 1891, 1-8, August, 2026.
 
  
 
