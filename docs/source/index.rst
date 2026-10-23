@@ -10,4 +10,5 @@ TODO
    CV_2026/requisitos_cartas/tabla_resultados_despues_2006
    CV_2026/requisitos_cartas/carta.rst
    CV_2026/requisitos_cartas/requisitos.rst
+   produccion_2026
 
