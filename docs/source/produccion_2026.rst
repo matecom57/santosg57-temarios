@@ -30,7 +30,9 @@ Iron Accumulation After Pilocarpine-Induced Status Epilepticus", Molecular Neuro
 6. Martínez-Degollado, M., Medina, A.C., Bello-Medina, P.C.,  Prado-Alcalá, R.A., "Membrane-initiated glucocorticoid signaling in the 
 dorsomedial striatum modulates resistance to extinction", Brain Research, 1891, 1-8, August, 2026.
 
- 
+7. López-Gutiérrez, M.F., Gracia-Tabuenca, Z., Ortiz-Retana, J.J, Camacho, F.J., Paredes, R.G., Díaz, N.F., Sarael Alcauter, S., 
+and Portillo, W., "Parental rearing shapes brain functional networks and socio-sexual behaviours in the prairie vole", Open 
+Biology, 1-24, March, 2026.  
 
 **Agradecimientos en Tesis de Maestría** 
 
