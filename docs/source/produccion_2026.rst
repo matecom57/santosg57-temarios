@@ -34,6 +34,20 @@ dorsomedial striatum modulates resistance to extinction", Brain Research, 1891, 
 and Portillo, W., "Parental rearing shapes brain functional networks and socio-sexual behaviours in the prairie vole", Open 
 Biology, 1-24, March, 2026.  
 
+8. Aquiles, A., Pinedo, L., Regalado, M., Luna-Munguia, H., Peñaa-Ortega, F., Concha, L.,  and Rossi-Pool, R., 
+"Assessing the degree of cortical dislamination through electrical pattern analysis", iScience, CelPress, 1-18, June, 2026.
+
+9. Coutiño, D., Guerrero-Zavala, J., Domínguez-Frausto, C.A., García-Guillén, M., Coronado-Leija, R., 
+Ramírez-Manzanares, A., Hernández-Gutiérrez, E., Descoteaux, M., Ayala, M., Badillo, M., Concha, L., "Disentangling 
+crossing fibers with advanced dMRI methods reveals bundle-specific degeneration across the visual system in asymmetric glaucoma", PLOS-One, 
+1-16, June, 2026.
+
+10. Mariana Stefania Serrano-Ramírez , Jalil Rasgado-Toledo , David Medina-S´anchez a , Luis A. Trujillo-Villarreal a,b , C´esara J. 
+Carranza-Aguilar a ,* ,a Eduardo A. Garza-Villarreal, "Morphine self-administration is associated with cerebellar remodeling, altered 
+cerebello-cerebral connectivity, and changes in navigational organization in male Wistar rats", Progress in Neuropsychopharmacology & 
+Biological Psychiatry, 1-11, June, 2026.
+
+
 **Agradecimientos en Tesis de Maestría** 
 
 1. Aguilar-González, A.E., "Análisis Longitudinal de los cambios microestructurales de regiones intra- y extra-límbicas tras la modulación del septum medial en un modelo
