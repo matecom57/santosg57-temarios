@@ -96,4 +96,9 @@ Alcauter, S., "HERITABILITY OF NEUROMETABOLITE CONCENTRATIONS IN THE CORTEX. RES
 al 25 de septiembre, 2026.
 
 
+**Participación en Difusión de la Ciencia**
+
+1. Semana del Cerebro, "Activa y cuida tu cuerpo molecular y celular mente", Instituto de Neurobiología, Campus Juriquilla, 40 hrs.,
+   17-21 de marzo, 2026.
+
 
