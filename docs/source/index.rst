@@ -11,4 +11,5 @@ TODO
    CV_2026/requisitos_cartas/carta.rst
    CV_2026/requisitos_cartas/requisitos.rst
    produccion_2026
+   proyecto_fer_2026.rst
 
